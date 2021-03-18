@@ -1,2 +1,5 @@
-# nustest20210318
-This is a test repository
+#This is a test repository
+
+I just want to find out how GitHub works!
+
+## is this some smaller text?
