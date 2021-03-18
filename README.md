@@ -9,3 +9,4 @@ I just want to find out how GitHub works!
 * ok this is the last
 
 ![](sentosa.jpg)
+![](test2.txt)
