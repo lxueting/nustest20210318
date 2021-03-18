@@ -7,3 +7,5 @@ I just want to find out how GitHub works!
 * this is a list item
 * this is another one
 * ok this is the last
+
+![](sentosa.jpg)
